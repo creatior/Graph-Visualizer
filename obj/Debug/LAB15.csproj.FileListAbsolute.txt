@@ -1,0 +1,12 @@
+C:\Users\varte\Desktop\c+++\c#\LAB15\obj\Debug\LAB15.csproj.AssemblyReference.cache
+C:\Users\varte\Desktop\c+++\c#\LAB15\obj\Debug\LAB15.csproj.SuggestedBindingRedirects.cache
+C:\Users\varte\Desktop\c+++\c#\LAB15\obj\Debug\LAB15.Properties.Resources.resources
+C:\Users\varte\Desktop\c+++\c#\LAB15\obj\Debug\LAB15.csproj.GenerateResource.cache
+C:\Users\varte\Desktop\c+++\c#\LAB15\obj\Debug\LAB15.csproj.CoreCompileInputs.cache
+C:\Users\varte\Desktop\c+++\c#\LAB15\bin\Debug\LAB15.exe.config
+C:\Users\varte\Desktop\c+++\c#\LAB15\bin\Debug\LAB15.exe
+C:\Users\varte\Desktop\c+++\c#\LAB15\bin\Debug\LAB15.pdb
+C:\Users\varte\Desktop\c+++\c#\LAB15\obj\Debug\LAB15.exe
+C:\Users\varte\Desktop\c+++\c#\LAB15\obj\Debug\LAB15.pdb
+C:\Users\varte\Desktop\c+++\c#\LAB15\obj\Debug\LAB15.ClearApplyForm.resources
+C:\Users\varte\Desktop\c+++\c#\LAB15\obj\Debug\Graphs.MainForm.resources
